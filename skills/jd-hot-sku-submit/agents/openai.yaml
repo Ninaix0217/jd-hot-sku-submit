@@ -1,0 +1,4 @@
+interface:
+  display_name: "京麦冷启 SKU 提报"
+  short_description: "按指定SKU、热销链接池和图片提报，识别SPU重复与每日额度并支持断点恢复"
+  default_prompt: "使用 $jd-hot-sku-submit，按已确认的链接尝试节奏完成京麦冷启 SKU 提报并保存成功结果。"
